@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Sophia
 ---
+
+<div style="text-align: center;">
+  <img src="assets/css/FullSizeRender.jpeg" alt="Sophia Ruger" width="300">
+</div>
 
 # SOPHIA RUGER
 
