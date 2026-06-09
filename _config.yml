@@ -1,0 +1,10 @@
+# Site settings
+title: Sophia Ruger
+description: Spatial Solutions for a Sustainable World
+url: "https://sgruger.github.io"
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
