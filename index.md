@@ -36,9 +36,9 @@ title: Sophia Ruger
          The onclick passes: title, description, image path, project URL -->
     <div class="project-card" onclick="openModal(
       'Dog Licensing Compliance',
-      'An analysis of licencing compliance at the jurisdiction and tract level for Maricopa County Animal Care and Control.',
+      'An analysis of licencing compliance at the jurisdiction and tract level for Maricopa County Animal Care and Control. MCACC offers resources to support responsible pet ownership and prevent pet surrender, such as behavior guidance and access to low-cost veterinary care for residents in the Phoenix metropolitan area of Arizona. The organization provides a wide range of services, including pet adoptions, vaccination and microchipping clinics, spay and neuter programs, and incident-response, though the service area the authors (Ruger, S., Flores, A., Ngo, C., & Sheehan, C.) aim to address in this study is dog licensing.',
       'assets/images/project1.jpg',
-      'https://github.com/sgruger'
+      'https://storymaps.arcgis.com/stories/b3b3e8ea42c74dbca0faf812afe59355'
     )">
       <img src="assets/images/project1.jpg" alt="Dog Licensing Compliance" />
       <div class="project-card-body">
