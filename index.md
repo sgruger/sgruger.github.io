@@ -10,15 +10,15 @@ title: Sophia Ruger
   <div class="card-row">
     <div class="card">
       <h3>Who I Am</h3>
-      <p>I'm a geospatial analyst and environmental scientist passionate about using data and maps to understand our world. I combine technical skill with creative thinking to tell stories through spatial data.</p>
+      <p>I'm a geospatial data analyst and environmentalist with a passion for using cartography as an art and science to solve challenges. I combine my creativity, technical skills and complex-adaptive thinking to tell stories through spatial data. In my free time I enjoy hiking, bouldering, sewing, and other creative endeavors! </p>
     </div>
     <div class="card">
       <h3>What I Do</h3>
-      <p>From GIS analysis and cartographic design to environmental impact assessments, I build spatial solutions that help organizations make better decisions about land, resources, and sustainability.</p>
+      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make better decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D catrographic visualization (ArcGIS Online(AGOL), Leaflet), statstical analysis, science communication, and leadership.</p>
     </div>
     <div class="card">
       <h3>My Approach</h3>
-      <p>I believe good maps are both rigorous and beautiful. Every project I take on is driven by a commitment to accuracy, clarity, and a deep respect for the landscapes I'm mapping.</p>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
     </div>
   </div>
 </section>
@@ -32,19 +32,19 @@ title: Sophia Ruger
   <div class="project-grid">
 
     <!-- PROJECT CARD 1
-         To edit: change the image src, title, description, and link.
+         To edit: change the image source, title, description, and link.
          The onclick passes: title, description, image path, project URL -->
     <div class="project-card" onclick="openModal(
-      'Urban Heat Mapping',
-      'An analysis of urban heat island effects across Portland using Landsat thermal imagery and census data. This project identified neighborhoods most vulnerable to extreme heat events and informed city cooling infrastructure planning.',
+      'Dog Licensing Compliance',
+      'An analysis of licencing compliance at the jurisdiction and tract level for Maricopa County Animal Care and Control.',
       'assets/images/project1.jpg',
       'https://github.com/sgruger'
     )">
-      <img src="assets/images/project1.jpg" alt="Urban Heat Mapping" />
+      <img src="assets/images/project1.jpg" alt="Dog Licensing Compliance" />
       <div class="project-card-body">
-        <h4>Urban Heat Mapping</h4>
-        <p>Thermal analysis of urban heat islands using Landsat imagery.</p>
-        <span class="project-tag">GIS · Remote Sensing</span>
+        <h4>Dog Licensing Compliance</h4>
+        <p>Multivariate analysis to better understand pet owner compliance and target interventions.</p>
+        <span class="project-tag">AGOL · Hot Spot Analysis</span>
       </div>
     </div>
 
@@ -92,9 +92,9 @@ title: Sophia Ruger
     Interested in collaborating or have a project in mind? Reach out.
   </p>
   <p style="text-align:center;">
-    <a href="mailto:your@email.com" style="color:#2a7f6f; font-weight:500;">your@email.com</a>
+    <a href="mailto:503soph@gmail.com" style="color:#2a7f6f; font-weight:500;">503soph@gmail.com</a>
     &nbsp;·&nbsp;
-    <a href="https://linkedin.com/in/yourprofile" style="color:#2a7f6f; font-weight:500;" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/sophia-ruger-13b313271/" style="color:#2a7f6f; font-weight:500;" target="_blank">LinkedIn</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/sgruger" style="color:#2a7f6f; font-weight:500;" target="_blank">GitHub</a>
   </p>
