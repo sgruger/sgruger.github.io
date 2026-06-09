@@ -27,7 +27,7 @@ title: Sophia Ruger
 
 <!-- PROJECTS SECTION -->
 <section id="projects">
-  <h2 class="section-title">Projects</h2>
+  <h2 class="section-title">Professional Projects</h2>
 
   <div class="project-grid">
 
