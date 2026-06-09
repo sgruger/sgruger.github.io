@@ -89,7 +89,7 @@ title: Sophia Ruger
 <section id="contact">
   <h2 class="section-title">Contact</h2>
   <p style="text-align:center; color:#666; max-width:480px; margin:0 auto 1.5rem;">
-    Interested in collaborating or have a project in mind? Reach out.
+    Interested in collaborating or have a project in mind? Connect with me below.
   </p>
   <p style="text-align:center;">
     <a href="mailto:503soph@gmail.com" style="color:#2a7f6f; font-weight:500;">503soph@gmail.com</a>
