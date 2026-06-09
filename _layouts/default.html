@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- STICKY HEADER — stays fixed as page scrolls -->
+  <header class="site-header">
+    <div class="header-bg">
+      <!-- Replace header-bg.jpg with your own image in assets/images/ -->
+      <img src="{{ '/assets/images/header-bg.jpg' | relative_url }}" alt="" class="header-image" />
+      <div class="header-overlay"></div>
+    </div>
+    <div class="header-content">
+      <h1 class="site-title">{{ site.title }}</h1>
+      <p class="site-tagline">{{ site.description }}</p>
+      <nav class="site-nav">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="{{ '/resume' | relative_url }}">Resume & CV</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- SCROLLABLE CONTENT -->
+  <main class="main-content">
+    {{ content }}
+  </main>
+
+  <!-- PROJECT MODAL -->
+  <div class="modal-overlay" id="projectModal">
+    <div class="modal-box">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <img class="modal-image" id="modalImage" src="" alt="" />
+      <div class="modal-body">
+        <h3 class="modal-title" id="modalTitle"></h3>
+        <p class="modal-desc" id="modalDesc"></p>
+        <a class="modal-link" id="modalLink" href="#" target="_blank">View Project →</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

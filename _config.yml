@@ -1,0 +1,7 @@
+title: Sophia Ruger
+description: Spatial Solutions for a Sustainable World
+url: "https://sgruger.github.io"
+
+# No theme needed — we're using a fully custom layout
+plugins:
+  - jekyll-seo-tag
