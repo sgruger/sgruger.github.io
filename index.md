@@ -7,6 +7,7 @@ title: Sophia Ruger
 <section id="about">
   <h2 class="section-title">About</h2>
 
+<!--
   <div class="card-row">
     <div class="card">
       <h3>Who I Am</h3>
@@ -20,7 +21,29 @@ title: Sophia Ruger
       <h3>My Approach</h3>
       <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
     </div>
+  </div> 
+  -->
+
+<div class="about-row">
+  <div class="about-text">
+    <div class="about-block">
+      <h3>Who I Am</h3>
+      <p>I'm a geospatial data analyst and environmentalist with a passion for using cartography as an art and science to solve challenges. I combine my creativity, technical skills and complex-adaptive thinking to tell stories through spatial data. In my free time I enjoy hiking, bouldering, sewing, and other creative endeavors!</p>
+    </div>
+    <div class="about-block">
+      <h3>What I Do</h3>
+      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make better decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D cartographic visualization (ArcGIS Online (AGOL), Leaflet), statistical analysis, science communication, and leadership.</p>
+    </div>
+    <div class="about-block">
+      <h3>My Approach</h3>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
+    </div>
   </div>
+
+  <img src="assets/images/headshot.jpg" alt="Sophia Ruger" class="about-headshot" />
+</div>
+
+  
 </section>
 
 <hr class="section-divider" />
