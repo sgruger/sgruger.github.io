@@ -75,14 +75,14 @@ title: Sophia Ruger
          The onclick passes: title, description, image path, project URL -->
     <div class="project-card" onclick="openModal(
       'Dog Licensing Compliance (2026)',
-      'An analysis of licencing compliance at the jurisdiction and tract level for Maricopa County Animal Care and Control. MCACC offers resources to support responsible pet ownership and prevent pet surrender, such as behavior guidance and access to low-cost veterinary care for residents in the Phoenix metropolitan area of Arizona. The organization provides a wide range of services, including pet adoptions, vaccination and microchipping clinics, spay and neuter programs, and incident-response, though the service area the authors aim to address in this study is dog licensing (Ruger, S., Flores, A., Ngo, C., & Sheehan, C.).',
+      'An analysis of licencing compliance at the jurisdiction and tract level using density models. MCACC provides a wide range of services, including pet adoptions, vaccination and microchipping clinics, spay and neuter programs, and incident-response, though the service area the authors aim to address in this study is dog licensing (Ruger, S., Flores, A., Ngo, C., & Sheehan, C.). Read about our findings using the link below.',
       'assets/images/project1.jpg',
       'https://storymaps.arcgis.com/stories/b3b3e8ea42c74dbca0faf812afe59355'
     )">
       <img src="assets/images/project1.jpg" alt="Dog Licensing Compliance" />
       <div class="project-card-body">
         <h4>Dog Licensing Compliance</h4>
-        <p>Multivariate analysis to better understand pet owner compliance and target interventions.</p>
+        <p>Multivariate analysis to better understand pet owner compliance and target interventions for Maricopa County Animal Care and Control.</p>
         <span class="project-tag">AGOL · Hot Spot Analysis</span>
       </div>
     </div>
@@ -90,30 +90,30 @@ title: Sophia Ruger
     <!-- PROJECT CARD 2 -->
     <div class="project-card" onclick="openModal(
       'Spatial Trends of Urban Habitats (Jan. 2025)',
-      'A series of blogs and maps created for the Arizona Wildlife Federation to track social, temporal, and spatial trends of habitat gardening. Our research found that residential habitat certifications are most common, while the rest are on other types of land including schoolyards, farmland or businesses. When observed by municipality, the certified habitats per capita tends to increase as the municipal population decreases. These findings were presented by Sophia Ruger and Dr. Kelli Larson at the 2025 CAP LTER Symposium.',
+      'A series of blogs and maps created to measure social, temporal, and spatial trends of habitat gardening. Our research found that residential habitat certifications are most common, while the rest are on other types of land including schoolyards, farmland or businesses. When observed by municipality, the certified habitats per capita tends to increase as the municipal population decreases. These findings were presented by Sophia Ruger and Dr. Kelli Larson at the 2025 CAP LTER Symposium.',
       'assets/images/project2.jpg',
       'https://www.azwildlife.org/blog/13454758'
     )">
       <img src="assets/images/project2.jpg" alt="Watershed Restoration Index" />
       <div class="project-card-body">
         <h4>Spatial Trends of Urban Habitats</h4>
-        <p>Spatial prioritization model for restoration site selection.</p>
-        <span class="project-tag">Hydrology · ArcGIS Pro</span>
+        <p>Cluster Analysis of Certified Wildlife Habitat over time and space in collaboration with the Arizona Wildlife Federation.</p>
+        <span class="project-tag">Ripley's K · ArcGIS Pro</span>
       </div>
     </div>
 
     <!-- PROJECT CARD 3 -->
     <div class="project-card" onclick="openModal(
-      'Wildfire Risk Dashboard',
-      'An interactive web map built with Leaflet.js visualizing wildfire risk across Oregon based on fuel load, slope, aspect, wind patterns, and historical fire perimeters. Designed for use by county emergency managers.',
+      'Mapping Hope: Using Data to Reach Women in Need',
+      'Conducted a geographic and statistical analysis of five years of Hope Women’s Center client intake data, revealing that three locations served more than 70% of all clients and identifying opportunities to improve service delivery. Produced strategic recommendations for resource allocation, enhanced data collection, and expansion of high-impact programs to help guide future decisions and increase access to essential services for women and families across Arizona.',
       'assets/images/project3.jpg',
-      'https://github.com/sgruger'
-    )">
+      'https://news.asu.edu/20250916-local-national-and-global-affairs-asu-students-provide-help-and-hope-women-crisis'
+    ">
       <img src="assets/images/project3.jpg" alt="Wildfire Risk Dashboard" />
       <div class="project-card-body">
-        <h4>Wildfire Risk Dashboard</h4>
-        <p>Interactive Leaflet.js map of Oregon wildfire risk factors.</p>
-        <span class="project-tag">Web Mapping · Leaflet.js</span>
+        <h4>Mapping Hope: Using Data to Reach Women in Need</h4>
+        <p>Quantitative reporting for one of Arizona's Largest Women's centers.</p>
+        <span class="project-tag">Science Communication · Non-Profit Collaboration</span>
       </div>
     </div>
 
