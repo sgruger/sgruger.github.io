@@ -55,7 +55,7 @@ title: Sophia Ruger
     <iframe
       src="https://sgruger-nyc-mobility-dashboard.hf.space"
       frameborder="0"
-      width="850"
+      width="100%"
       height="450"
       style="border-radius: 4px; box-shadow: 0 4px 20px rgba(42,127,111,0.12);"
     ></iframe>
