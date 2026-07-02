@@ -56,7 +56,7 @@ title: Sophia Ruger
       src="https://sgruger-nyc-mobility-dashboard.hf.space"
       frameborder="0"
       width="1100"
-      height="450"
+      height="488"
       style="border-radius: 4px; box-shadow: 0 4px 20px rgba(42,127,111,0.12);"
     ></iframe>
   </div>
@@ -66,7 +66,7 @@ title: Sophia Ruger
 
 <!-- PROJECTS SECTION -->
 <section id="projects">
-  <h2 class="section-title">Professional Projects</h2>
+  <h2 class="section-title">Projects</h2>
 
   <div class="project-grid">
 
