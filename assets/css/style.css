@@ -89,8 +89,9 @@ body {
 }
 
 .site-title {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: 'Century Gothic', sans-serif;
   font-weight: 700;
+  /* your existing properties... */
   text-shadow: 0 2px 16px rgba(0,0,0,0.5), 0 1px 4px rgba(0,0,0,0.4);
 }
 
