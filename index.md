@@ -48,6 +48,22 @@ title: Sophia Ruger
 
 <hr class="section-divider" />
 
+<!-- HUGGING FACE DASHBOARD -->
+<section id="dashboard">
+  <h2 class="section-title">Mobility Dashboard (NYC)</h2>
+  <div style="display: flex; justify-content: center; margin: 2rem 0;">
+    <iframe
+      src="https://sgruger-nyc-mobility-dashboard.hf.space"
+      frameborder="0"
+      width="850"
+      height="450"
+      style="border-radius: 4px; box-shadow: 0 4px 20px rgba(42,127,111,0.12);"
+    ></iframe>
+  </div>
+</section>
+
+<hr class="section-divider" />
+
 <!-- PROJECTS SECTION -->
 <section id="projects">
   <h2 class="section-title">Professional Projects</h2>
