@@ -69,9 +69,9 @@ body {
   inset: 0;
   background: linear-gradient(
     135deg,
-    rgba(26, 92, 80, 0.72) 0%,
-    rgba(42, 127, 111, 0.60) 50%,
-    rgba(76, 175, 130, 0.55) 100%
+    rgba(20, 70, 60, 0.78) 0%,
+    rgba(42, 127, 111, 0.68) 50%,
+    rgba(76, 175, 130, 0.62) 100%
   );
 }
 
@@ -90,21 +90,12 @@ body {
 
 .site-title {
   font-family: 'Century Gothic', 'AppleGothic', sans-serif;
-  font-size: clamp(2rem, 5vw, 3.2rem);
   font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  line-height: 1.1;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+  text-shadow: 0 2px 16px rgba(0,0,0,0.5), 0 1px 4px rgba(0,0,0,0.4);
 }
 
 .site-tagline {
-  font-family: var(--font-body);
-  font-weight: 300;
-  font-size: clamp(0.85rem, 2vw, 1.05rem);
-  letter-spacing: 0.06em;
-  margin-top: 0.5rem;
-  opacity: 0.92;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.45);
 }
 
 .site-nav {
