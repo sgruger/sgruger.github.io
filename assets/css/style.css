@@ -357,8 +357,10 @@ The below section is commented out in case you want to revert changes */
 
 .modal-image {
   width: 100%;
-  height: 280px;
-  object-fit: cover;
+  height: auto;          /* was: 280px — now adapts to image's natural ratio */
+  max-height: 420px;     /* prevents very tall images from taking over */
+  object-fit: contain;   /* shows full image without cropping */
+  background: #f0f4f3;   /* subtle background behind any empty space */
   display: block;
 }
 
