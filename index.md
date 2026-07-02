@@ -89,10 +89,10 @@ title: Sophia Ruger
 
     <!-- PROJECT CARD 2 -->
     <div class="project-card" onclick="openModal(
-      'Watershed Restoration Index',
-      'A composite spatial index built in ArcGIS Pro to prioritize watershed restoration sites across the Willamette Valley. Layers included erosion risk, habitat connectivity, landowner willingness, and hydrological modeling outputs.',
+      'Geospatial Trends of Wildlife Gardening (Jan. 2025)',
+      'A series of blogs and maps created for the Arizona Wildlife Federation to track social, temporal, and spatial trends of habitat gardening. Our research found that residential habitat certifications are most common, while the rest are on other types of land including schoolyards, farmland or businesses. When observed by municipality, the certified habitats per capita tends to increase as the municipal population decreases. These findings were presented by Sophia Ruger and Dr. Kelli Larson at the 2025 CAP LTER Symposium.',
       'assets/images/project2.jpg',
-      'https://github.com/sgruger'
+      'https://www.azwildlife.org/blog/13454758'
     )">
       <img src="assets/images/project2.jpg" alt="Watershed Restoration Index" />
       <div class="project-card-body">
