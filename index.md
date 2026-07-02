@@ -15,7 +15,7 @@ title: Sophia Ruger
     </div>
     <div class="card">
       <h3>What I Do</h3>
-      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make better decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D catrographic visualization (ArcGIS Online(AGOL), Leaflet), statstical analysis, science communication, and leadership.</p>
+      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make better decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D catrographic visualization (ArcGIS Online(AGOL), Leaflet), interactive dashboards (Solara), statstical analysis, science communication, and leadership.</p>
     </div>
     <div class="card">
       <h3>My Approach</h3>
