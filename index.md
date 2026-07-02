@@ -19,7 +19,7 @@ title: Sophia Ruger
     </div>
     <div class="card">
       <h3>My Approach</h3>
-      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good. View my professional and academic projects below!</p>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
     </div>
   </div> 
   -->
@@ -36,7 +36,7 @@ title: Sophia Ruger
     </div>
     <div class="about-block">
       <h3>My Approach</h3>
-      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good. View my professional and academic projects below!</p>
     </div>
   </div>
 
@@ -105,7 +105,7 @@ title: Sophia Ruger
     <!-- PROJECT CARD 3 -->
     <div class="project-card" onclick="openModal(
       'Mapping Hope: Using Data to Reach Women in Need',
-      'Conducted a geographic and statistical analysis of five years of Hope Women’s Center client intake data, revealing that three locations served more than 70% of all clients and identifying opportunities to improve service delivery. Produced strategic recommendations for resource allocation, enhanced data collection, and expansion of high-impact programs to help guide future decisions and increase access to essential services for women and families across Arizona.',
+      'Conducted a geographic and statistical analysis of five years of Hope Women’s Center client intake data, revealing that three locations served more than 70% of all clients and identifying opportunities to improve service delivery. Produced strategic recommendations in an interal report for resource allocation, enhanced data collection, and expansion of high-impact programs to help guide future decisions and increase access to essential services for women and families across Arizona.',
       'assets/images/project3.jpg',
       'https://news.asu.edu/20250916-local-national-and-global-affairs-asu-students-provide-help-and-hope-women-crisis'
     ">
@@ -113,7 +113,7 @@ title: Sophia Ruger
       <div class="project-card-body">
         <h4>Mapping Hope: Using Data to Reach Women in Need</h4>
         <p>Quantitative reporting for one of Arizona's Largest Women's centers.</p>
-        <span class="project-tag">Science Communication · Non-Profit Collaboration</span>
+        <span class="project-tag">R Studio · Multivariate Regression</span>
       </div>
     </div>
 
