@@ -19,7 +19,7 @@ title: Sophia Ruger
     </div>
     <div class="card">
       <h3>My Approach</h3>
-      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good. View my professional and academic projects below!</p>
     </div>
   </div> 
   -->
