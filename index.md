@@ -47,8 +47,6 @@ title: Sophia Ruger
 
 <hr class="section-divider" />
 
-<hr class="section-divider" />
-
 <!-- PHOTO GALLERY SECTION -->
 <section id="gallery">
   <h2 class="section-title">Map Gallery</h2>
@@ -134,8 +132,8 @@ title: Sophia Ruger
       'Conducted a geographic and statistical analysis of five years of Hope Women’s Center client intake data, revealing that three locations served more than 70% of all clients and identifying opportunities to improve service delivery. Produced strategic recommendations in an interal report for resource allocation, enhanced data collection, and expansion of high-impact programs to help guide future decisions and increase access to essential services for women and families across Arizona.',
       'assets/images/project3.jpg',
       'https://news.asu.edu/20250916-local-national-and-global-affairs-asu-students-provide-help-and-hope-women-crisis'
-    ">
-      <img src="assets/images/project3.jpg" alt="Wildfire Risk Dashboard" />
+    )">
+      <img src="assets/images/project3.jpg" alt="Hope Women's Center" />
       <div class="project-card-body">
         <h4>Mapping Hope: Using Data to Reach Women in Need</h4>
         <p>Quantitative reporting for one of Arizona's Largest Women's centers.</p>
