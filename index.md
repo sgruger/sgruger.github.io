@@ -61,22 +61,22 @@ title: Sophia Ruger
       <!-- SLIDE 1 — replace src and caption -->
       <div class="slide active">
         <img src="assets/images/gallery1.jpg" alt="Map 1" />
-        <p class="slide-caption">Caption for photo one</p>
+        <p class="slide-caption">Building skills with raster datasets: Exploring Oregon weather patters (April 2025)</p>
       </div>
       <!-- SLIDE 2 -->
       <div class="slide">
         <img src="assets/images/gallery2.jpg" alt="Map 2" />
-        <p class="slide-caption">Caption for photo two</p>
+        <p class="slide-caption">Building Statistical Analysis Skills: Urban habitat hotspots (Undergraduate thesis, Nov. 2025)</p>
       </div>
       <!-- SLIDE 3 -->
       <div class="slide">
         <img src="assets/images/gallery3.jpg" alt="Map 3" />
-        <p class="slide-caption">Caption for photo three</p>
+        <p class="slide-caption">Improving communication through design choices: Mapping natural disasters (Feb. 2026)</p>
       </div>
       <!-- SLIDE 4 -->
       <div class="slide">
         <img src="assets/images/gallery4.jpg" alt="Map 4" />
-        <p class="slide-caption">Caption for photo four</p>
+        <p class="slide-caption">Learning new cartographic styles: Spatial trends of the price of resources (April 2026)</p>
       </div>
       <!-- ADD MORE SLIDES by copying a <div class="slide"> block above -->
     </div>
