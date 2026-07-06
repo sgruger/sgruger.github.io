@@ -89,7 +89,7 @@ body {
 }
 
 .site-title {
-  font-family: 'Century Gothic', 'Futura', 'Trebuchet MS', sans-serif;
+  font-family: 'Century Gothic', 'Nunito', sans-serif;
   font-weight: 700;
   font-size: clamp(2rem, 5vw, 3.2rem);
   letter-spacing: 0.12em;
