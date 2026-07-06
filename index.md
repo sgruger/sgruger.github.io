@@ -51,7 +51,7 @@ title: Sophia Ruger
 <section id="gallery">
   <h2 class="section-title">Map Gallery</h2>
   <p style="text-align:center; color:#666; max-width:520px; margin: -0.5rem auto 2rem;">
-    A collection of thematic maps I created that explore urban, social, and environmental dynamics.
+    A collection of thematic maps I created that explore urban, social, and environmental dynamics. See my skills and style develop with practice.
   </p>
 
   <div class="slideshow">
