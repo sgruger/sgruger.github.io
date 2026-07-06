@@ -59,3 +59,16 @@ function moveSlide(direction) {
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', initSlideshow);
+
+// Fullscreen on slide image click
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.slide img').forEach(img => {
+    img.addEventListener('click', function() {
+      if (this.requestFullscreen) {
+        this.requestFullscreen();
+      } else if (this.webkitRequestFullscreen) {
+        this.webkitRequestFullscreen(); // Safari
+      }
+    });
+  });
+});
