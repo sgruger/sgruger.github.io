@@ -110,7 +110,7 @@ title: Sophia Ruger
 
 <!-- HUGGING FACE DASHBOARD -->
 <section id="dashboard">
-  <h2 class="section-title">Mobility Dashboard (NYC)</h2>
+  <h2 class="section-title">Interactive Mobility Tracker Dashboard</h2>
   <div style="display: flex; justify-content: center; margin: 2rem 0;">
     <iframe
       src="https://sgruger-nyc-mobility-dashboard.hf.space"
