@@ -131,7 +131,7 @@ title: Sophia Ruger
     Interested in collaborating or have a project in mind? Connect with me below.
   </p>
   <p style="text-align:center;">
-    <a href="mailto:503soph@gmail.com" style="color:#2a7f6f; font-weight:500;">503soph@gmail.com</a>
+    <a href="mailto:503soph@gmail.com" style="color:#556989; font-weight:500;">503soph@gmail.com</a>
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/sophia-ruger-13b313271/" style="color:#2a7f6f; font-weight:500;" target="_blank">LinkedIn</a>
     &nbsp;·&nbsp;
