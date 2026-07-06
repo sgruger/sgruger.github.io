@@ -43,10 +43,52 @@ title: Sophia Ruger
   <img src="assets/images/headshot.jpg" alt="Sophia Ruger" class="about-headshot" />
 </div>
 
-  
 </section>
 
 <hr class="section-divider" />
+
+<hr class="section-divider" />
+
+<!-- PHOTO GALLERY SECTION -->
+<section id="gallery">
+  <h2 class="section-title">Map Gallery</h2>
+  <p style="text-align:center; color:#666; max-width:520px; margin: -0.5rem auto 2rem;">
+    A collection of thematic maps I created that explore urban, social, and environmental dynamics.
+  </p>
+
+  <div class="slideshow">
+    <button class="slide-btn slide-prev" onclick="moveSlide(-1)">&#8592;</button>
+
+    <div class="slide-track">
+      <!-- SLIDE 1 — replace src and caption -->
+      <div class="slide active">
+        <img src="assets/images/gallery1.jpg" alt="Map 1" />
+        <p class="slide-caption">Caption for photo one</p>
+      </div>
+      <!-- SLIDE 2 -->
+      <div class="slide">
+        <img src="assets/images/gallery2.jpg" alt="Map 2" />
+        <p class="slide-caption">Caption for photo two</p>
+      </div>
+      <!-- SLIDE 3 -->
+      <div class="slide">
+        <img src="assets/images/gallery3.jpg" alt="Map 3" />
+        <p class="slide-caption">Caption for photo three</p>
+      </div>
+      <!-- SLIDE 4 -->
+      <div class="slide">
+        <img src="assets/images/gallery4.jpg" alt="Map 4" />
+        <p class="slide-caption">Caption for photo four</p>
+      </div>
+      <!-- ADD MORE SLIDES by copying a <div class="slide"> block above -->
+    </div>
+
+    <button class="slide-btn slide-next" onclick="moveSlide(1)">&#8594;</button>
+  </div>
+
+  <!-- Dot indicators -->
+  <div class="slide-dots" id="slideDots"></div>
+</section>
 
 <!-- PROJECTS SECTION -->
 <section id="projects">
