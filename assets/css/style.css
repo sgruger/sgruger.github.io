@@ -10,10 +10,10 @@
 }
 
 :root {
-  --teal:       #2a7f6f;
-  --teal-dark:  #1a5c50;
-  --teal-light: #3aafa0;
-  --green:      #4caf82;
+  --teal:       #556989;
+  --teal-dark:  #3a4f6b;
+  --teal-light: #7a90aa;
+  --green:      #6a849f;
   --white:      #ffffff;
   --off-white:  #f7f9f8;
   --text:       #222222;
@@ -69,9 +69,9 @@ body {
   inset: 0;
   background: linear-gradient(
     135deg,
-    rgba(20, 70, 60, 0.78) 0%,
-    rgba(42, 127, 111, 0.68) 50%,
-    rgba(76, 175, 130, 0.62) 100%
+    rgba(55, 75, 105, 0.82) 0%,
+    rgba(85, 105, 137, 0.72) 50%,
+    rgba(105, 125, 157, 0.68) 100%
   );
 }
 
@@ -139,7 +139,7 @@ body {
 .section-title {
   font-family: var(--font-display);
   font-size: 1.7rem;
-  color: var(--teal-dark);
+  color: #556989;
   margin-bottom: 1.5rem;
   text-align: center;
   letter-spacing: 0.04em;
@@ -164,7 +164,7 @@ body {
 .about-block h3 {
   font-family: var(--font-display);
   font-size: 1.15rem;
-  color: var(--teal-dark);
+  color: #556989;
   margin-bottom: 0.6rem;
   letter-spacing: 0.04em;
 }
