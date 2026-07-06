@@ -88,6 +88,8 @@ title: Sophia Ruger
   <div class="slide-dots" id="slideDots"></div>
 </section>
 
+<hr class="section-divider" />
+
 <!-- PROJECTS SECTION -->
 <section id="projects">
   <h2 class="section-title">Projects</h2>
