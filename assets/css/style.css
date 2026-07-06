@@ -239,6 +239,104 @@ The below section is commented out in case you want to revert changes */
 }
 */
 
+/* --- SLIDESHOW GALLERY --- */
+.slideshow {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 0 auto;
+  max-width: 820px;
+}
+
+.slide-track {
+  flex: 1;
+  overflow: hidden;
+  border-radius: 4px;
+  box-shadow: 0 4px 20px rgba(85,105,137,0.15);
+}
+
+.slide {
+  display: none;
+  flex-direction: column;
+}
+
+.slide.active {
+  display: flex;
+}
+
+.slide img {
+  width: 100%;
+  height: 480px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.slide-caption {
+  background: var(--white);
+  color: var(--text-muted);
+  font-size: 0.88rem;
+  font-style: italic;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.slide-btn {
+  background: #556989;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 2.8rem;
+  height: 2.8rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background 0.2s, transform 0.1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide-btn:hover {
+  background: #3a4f6b;
+  transform: scale(1.08);
+}
+
+.slide-dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.2rem;
+}
+
+.dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--border);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.dot.active {
+  background: #556989;
+}
+
+@media (max-width: 768px) {
+  .slide img {
+    height: 300px;
+  }
+
+  .slide-btn {
+    width: 2.2rem;
+    height: 2.2rem;
+    font-size: 0.9rem;
+  }
+}
+
 /* --- PROJECT GRID --- */
 .project-grid {
   display: grid;
