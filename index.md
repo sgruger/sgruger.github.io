@@ -101,7 +101,7 @@ title: Sophia Ruger
          The onclick passes: title, description, image path, project URL -->
     <div class="project-card" onclick="openModal(
       'Dog Licensing Compliance (2026)',
-      'An analysis of licencing compliance at the jurisdiction and tract level using density models. MCACC provides a wide range of services, including pet adoptions, vaccination and microchipping clinics, spay and neuter programs, and incident-response, though the service area the authors aim to address in this study is dog licensing (Ruger, S., Flores, A., Ngo, C., & Sheehan, C.). Read about our findings using the link below.',
+      'An analysis of licencing compliance at the jurisdiction and tract level using density models. MCACC provides a wide range of services, including pet adoptions, vaccination and microchipping clinics, spay and neuter programs, and incident-response, though the service area the authors aim to address in this study is dog licensing (Ruger, S., Flores, A., Ngo, C., & Sheehan, C.).',
       'assets/images/project1.jpg',
       'https://storymaps.arcgis.com/stories/b3b3e8ea42c74dbca0faf812afe59355'
     )">
