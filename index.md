@@ -11,15 +11,15 @@ title: Sophia Ruger
   <div class="card-row">
     <div class="card">
       <h3>Who I Am</h3>
-      <p>I'm a geospatial data analyst and environmentalist with a passion for using cartography as an art and science to solve challenges. I combine my creativity, technical skills and complex-adaptive thinking to tell stories through spatial data. In my free time I enjoy hiking, bouldering, sewing, and other creative endeavors! </p>
+      <p>I'm a geospatial data analyst and environmentalist with a passion for using cartography to solve challenges. I combine my creativity, technical skills and complex-adaptive thinking to tell stories with spatial data. In my free time I enjoy hiking, bouldering, sewing, and making jewelry. </p>
     </div>
     <div class="card">
       <h3>What I Do</h3>
-      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make better decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D catrographic visualization (ArcGIS Online(AGOL), Leaflet), interactive dashboards (Solara), statstical analysis, science communication, and leadership.</p>
+      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build static and dynamic maps that help organizations make informed decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D catrographic visualization (ArcGIS Online(AGOL), Leaflet), interactive dashboards (Solara), statstical analysis, science communication, and leadership.</p>
     </div>
     <div class="card">
       <h3>My Approach</h3>
-      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
     </div>
   </div> 
   -->
@@ -28,15 +28,15 @@ title: Sophia Ruger
   <div class="about-text">
     <div class="about-block">
       <h3>Who I Am</h3>
-      <p>I'm a geospatial data analyst and environmentalist with a passion for using cartography as an art and science to solve challenges. I combine my creativity, technical skills and complex-adaptive thinking to tell stories through spatial data. In my free time I enjoy hiking, bouldering, sewing, and other creative endeavors!</p>
+      <p>I'm a geospatial data analyst and environmentalist with a passion for using cartography to solve challenges. I combine my creativity, technical skills and complex-adaptive thinking to tell stories with spatial data. In my free time I enjoy hiking, bouldering, sewing, and making jewelry.</p>
     </div>
     <div class="about-block">
       <h3>What I Do</h3>
-      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make better decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D cartographic visualization (ArcGIS Online (AGOL), Leaflet), statistical analysis, science communication, and leadership.</p>
+      <p>From spatial analysis and cartographic design to environmental and social impact assessments, I build spatial solutions that help organizations make informed decisions. I have experience in coding (Python, R, SQL), data reporting, 2D and 3D catrographic visualization (ArcGIS Online(AGOL), Leaflet), interactive dashboards (Solara), statstical analysis, science communication, and leadership.</p>
     </div>
     <div class="about-block">
       <h3>My Approach</h3>
-      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the social, cultural, or environmental landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good. View my professional and academic projects below!</p>
+      <p>Every project I undertake is driven by a commitment to accuracy, clarity, and a deep respect for the landscapes I am mapping. Above all, I am searching for clients with guiding values similar to my own: the use of technology as a force for good.</p>
     </div>
   </div>
 
@@ -108,7 +108,7 @@ title: Sophia Ruger
       <img src="assets/images/project1.jpg" alt="Dog Licensing Compliance" />
       <div class="project-card-body">
         <h4>Dog Licensing Compliance</h4>
-        <p>Multivariate analysis to better understand pet owner compliance and target interventions for Maricopa County Animal Care and Control.</p>
+        <p>Multivariate analysis to examine pet owner compliance and target interventions for Maricopa County Animal Care and Control.</p>
         <span class="project-tag">AGOL · Hot Spot Analysis</span>
       </div>
     </div>
@@ -130,7 +130,7 @@ title: Sophia Ruger
 
     <!-- PROJECT CARD 3 -->
     <div class="project-card" onclick="openModal(
-      'Mapping Hope: Using Data to Reach Women in Need',
+      'Mapping Hope: Using Data to Reach Women in Need (Aug. 2025)',
       'Conducted a geographic and statistical analysis of five years of Hope Women’s Center client intake data, revealing that three locations served more than 70% of all clients and identifying opportunities to improve service delivery. Produced strategic recommendations in an interal report for resource allocation, enhanced data collection, and expansion of high-impact programs to help guide future decisions and increase access to essential services for women and families across Arizona.',
       'assets/images/project3.jpg',
       'https://news.asu.edu/20250916-local-national-and-global-affairs-asu-students-provide-help-and-hope-women-crisis'
