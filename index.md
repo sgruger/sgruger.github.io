@@ -51,7 +51,7 @@ title: Sophia Ruger
 <section id="gallery">
   <h2 class="section-title">Map Gallery</h2>
   <p style="text-align:center; color:#666; max-width:520px; margin: -0.5rem auto 2rem;">
-    A collection of thematic maps I created that explore urban, social, and environmental dynamics. See my skills and style develop with practice.
+    A collection of thematic maps I created to explore urban, social, economical and environmental dynamics.
   </p>
 
   <div class="slideshow">
@@ -61,22 +61,22 @@ title: Sophia Ruger
       <!-- SLIDE 1 — replace src and caption -->
       <div class="slide active">
         <img src="assets/images/gallery1.jpg" alt="Map 1" />
-        <p class="slide-caption">Building skills with raster datasets: Exploring Oregon weather patters (April 2025)</p>
+        <p class="slide-caption">Addressing weather patterns using spatially gridded average daily maximum temperature from OSU's PRISM data (April 2025)</p>
       </div>
       <!-- SLIDE 2 -->
       <div class="slide">
         <img src="assets/images/gallery2.jpg" alt="Map 2" />
-        <p class="slide-caption">Building Statistical Analysis Skills: Urban habitat hotspots (Undergraduate thesis, Nov. 2025)</p>
+        <p class="slide-caption">Deconstructing pro-wildlife attitudes with Getis Ord Gi* to inform future Arizona Wildlife Federation outreach efforts (Nov. 2025)</p>
       </div>
       <!-- SLIDE 3 -->
       <div class="slide">
         <img src="assets/images/gallery3.jpg" alt="Map 3" />
-        <p class="slide-caption">Improving communication through design choices: Mapping natural disasters (Feb. 2026)</p>
+        <p class="slide-caption">Informing disaster relief efforts in high risk areas through complementary symbology and variable representation (Feb. 2026)</p>
       </div>
       <!-- SLIDE 4 -->
       <div class="slide">
         <img src="assets/images/gallery4.jpg" alt="Map 4" />
-        <p class="slide-caption">Learning new cartographic styles: Spatial trends of the price of resources (April 2026)</p>
+        <p class="slide-caption">Implementing contemporary cartographic styles to improve readability and appeal to the appropriate audience (April 2026)</p>
       </div>
       <!-- ADD MORE SLIDES by copying a <div class="slide"> block above -->
     </div>
@@ -103,7 +103,7 @@ title: Sophia Ruger
       'Dog Licensing Compliance (2026)',
       'An analysis of licencing compliance at the jurisdiction and tract level using density models. MCACC provides a wide range of services, including pet adoptions, vaccination and microchipping clinics, spay and neuter programs, and incident-response, though the service area the authors aim to address in this study is dog licensing (Ruger, S., Flores, A., Ngo, C., & Sheehan, C.).',
       'assets/images/project1.jpg',
-      'https://storymaps.arcgis.com/stories/b3b3e8ea42c74dbca0faf812afe59355'
+      'https://storymaps.arcgis.com/stories/6696a4b8045244c0bc360f90ac3177a0'
     )">
       <img src="assets/images/project1.jpg" alt="Dog Licensing Compliance" />
       <div class="project-card-body">
