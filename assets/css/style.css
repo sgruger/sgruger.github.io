@@ -20,6 +20,7 @@
   --text-muted: #666666;
   --border:     #dde8e5;
   --header-height: 220px;
+  --header-height-small: 100px;   /* header height after scrolling */
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body:    'Inter', system-ui, sans-serif;
 }
@@ -36,9 +37,9 @@ body {
   padding-top: var(--header-height);
 }
 
-/* Offset anchor links to account for sticky header height */
+/* Offset anchor links to account for the shrunk sticky header */
 section[id] {
-  scroll-margin-top: calc(var(--header-height) + 1.5rem);
+  scroll-margin-top: calc(var(--header-height-small) + 1.5rem);
 }
 
 /* --- STICKY HEADER --- */
@@ -133,6 +134,45 @@ section[id] {
   border-color: var(--white);
 }
 
+/* --- SHRINKING HEADER (class added by main.js on scroll) --- */
+.site-header,
+.site-title,
+.site-tagline,
+.site-nav {
+  transition: all 0.3s ease;
+}
+
+.site-tagline {
+  max-height: 3em;
+  overflow: hidden;
+}
+
+.site-header.shrink {
+  height: var(--header-height-small);
+}
+
+.site-header.shrink .site-title {
+  font-size: clamp(1.2rem, 3vw, 1.6rem);
+}
+
+.site-header.shrink .site-tagline {
+  opacity: 0;
+  max-height: 0;
+}
+
+.site-header.shrink .site-nav {
+  margin-top: 0.4rem;
+}
+
+.site-header.shrink .site-nav a {
+  padding: 0.25rem 0.75rem;
+}
+
+/* Visitors who turn off motion in their device settings skip the animation */
+@media (prefers-reduced-motion: reduce) {
+  .site-header, .site-title, .site-tagline, .site-nav { transition: none; }
+}
+
 /* --- MAIN CONTENT AREA --- */
 .main-content {
   max-width: 1100px;
@@ -203,8 +243,7 @@ section[id] {
 }
 
 
-/* Hey Sophia I luh you
-The below section is commented out in case you want to revert changes */
+/* The below section is commented out in case you want to revert changes */
 
 /* --- THREE HORIZONTAL TEXT BOXES --- */
 /*
@@ -524,6 +563,7 @@ The below section is commented out in case you want to revert changes */
 @media (max-width: 480px) {
   :root {
     --header-height: 180px;
+    --header-height-small: 115px;
   }
 
   .site-nav a {
