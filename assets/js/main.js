@@ -72,3 +72,13 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+
+// Shrink header after scrolling down
+const siteHeader = document.querySelector('.site-header');
+
+function updateHeader() {
+  siteHeader.classList.toggle('shrink', window.scrollY > 50);
+}
+
+window.addEventListener('scroll', updateHeader, { passive: true });
+updateHeader(); // set correct state if page loads mid-scroll (e.g. refresh)
